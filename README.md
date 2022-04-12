@@ -1,4 +1,4 @@
-# bupa-todo-react
+# todo-react
 React app created during job at Bupa
 
 # Getting Started with Create React App
